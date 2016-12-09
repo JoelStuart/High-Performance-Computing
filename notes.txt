@@ -1,0 +1,10 @@
+explicit code and algorithms
+Formulae for collisions
+be more specific with what is done
+talk about why mpi works and open mp doesnt - relate to algorithm , explain why
+x axis on graph to show relationship of objects x time (N^2?, sub N^2 for parallel?)
+speedup graph / analysis
+validation pictures with visualiser
+conservation of energy
+
+Crank up num particles

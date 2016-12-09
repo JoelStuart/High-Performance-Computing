@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="COSCVisualiser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/COSCVisualiser_jar</output-path>
+    <root id="archive" name="COSCVisualiser.jar">
+      <element id="module-output" name="COSCVisualiser" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/G.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
